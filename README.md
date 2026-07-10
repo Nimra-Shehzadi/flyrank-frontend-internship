@@ -18,3 +18,9 @@ The purpose of this repository is to establish the initial development environme
 - Use Git with conventional commits
 - Integrate AI-assisted development into workflow
 - Maintain clear project documentation and structure
+
+## Repository Structure
+- README.md — project overview and setup purpose
+- LICENSE — repository license file
+- .gitignore — ignored files and folders
+- CLAUDE.md — AI workflow and project conventions
