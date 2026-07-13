@@ -1,0 +1,11 @@
+Week 1 – FE-01: Environment and AI Toolchain
+
+Tasks to complete:
+1. Install Node.js
+2. Install Git
+3. Set up VS Code / Cursor
+4. Create GitHub repo
+5. Add README.md, LICENSE, .gitignore, CLAUDE.md
+6. Make 3 conventional commits
+7. Ask AI to review README
+8. Submit repo link + screenshot
