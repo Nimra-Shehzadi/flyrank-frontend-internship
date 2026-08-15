@@ -9,7 +9,7 @@ The goal was not to redesign the portfolio unnecessarily, but to understand whet
 ## Portfolio Reviewed
 
 **Live Portfolio:**
-https://flyrank-frontend-internship-hfd2.vercel.app/
+[https://flyrank-frontend-internship-hfd2.vercel.app/](https://personal-portfolio-eta-ten-65.vercel.app/#projects)
 
 ## Review Questions
 
